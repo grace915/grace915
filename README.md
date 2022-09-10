@@ -1,4 +1,14 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=Lee%20Gaeun&color=timeGradient&height=200&fontSize=80&section=header&animation=twinkling&section=footer&fontAlign=28&fontAlignY=44&stroke=FFFFFF&strokeWidth=1&desc=HYU%20CSE%2019&descAlign=60&descAlignY=52&descSize=23)
+
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrace915%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <br><br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace915&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace915)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **grace915/grace915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
