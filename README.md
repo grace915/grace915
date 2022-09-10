@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Lee%20Gaeun&color=timeGradient&height=200&fontSize=80&section=header&animation=twinkling&section=footer&fontAlign=28&fontAlignY=44&stroke=FFFFFF&strokeWidth=1&desc=HYU%20CSE%2019&descAlign=60&descAlignY=52&descSize=23)
 
 
