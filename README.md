@@ -28,5 +28,5 @@
 <br><br>
 
 ## Misc
-![grace915's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace915&show_icons=true&theme=radical?count_private=true)  
+![grace915's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace915&count_private=true&show_icons=true&theme=nightowl)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace915&layout=compact&theme=dark&exclude_repo=UnityBasic)](https://github.com/anuraghazra/github-readme-stats)
